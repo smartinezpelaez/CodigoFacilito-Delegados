@@ -1,0 +1,14 @@
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\bin\Debug\net7.0\CodigoFacilito-Delegados.exe
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\bin\Debug\net7.0\CodigoFacilito-Delegados.deps.json
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\bin\Debug\net7.0\CodigoFacilito-Delegados.runtimeconfig.json
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\bin\Debug\net7.0\CodigoFacilito-Delegados.dll
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\bin\Debug\net7.0\CodigoFacilito-Delegados.pdb
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.AssemblyInfo.cs
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.dll
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\refint\CodigoFacilito-Delegados.dll
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.pdb
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\CodigoFacilito-Delegados.genruntimeconfig.cache
+C:\Users\stev2\source\repos\Delegados\CodigoFacilito-Delegados\obj\Debug\net7.0\ref\CodigoFacilito-Delegados.dll

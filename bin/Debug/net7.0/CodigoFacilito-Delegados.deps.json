@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CodigoFacilito-Delegados/1.0.0": {
+        "runtime": {
+          "CodigoFacilito-Delegados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodigoFacilito-Delegados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
